@@ -1,2 +1,6 @@
 service:
   name: test service B
+
+student:
+  id: 202035384
+  name: 전지우
